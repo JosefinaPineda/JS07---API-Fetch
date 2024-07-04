@@ -1,0 +1,21 @@
+html{
+    background-color: rgb(186, 140, 229);
+}
+
+body{
+    background-color: rgb(193, 170, 214);
+}
+
+button{
+    background-color: rgb(70, 3, 59) !important;
+    color: white !important;
+}
+
+.container{
+    text-align: center;
+    background-color: rgb(208, 186, 243);
+}
+
+.spinner-border{
+    color: blueviolet !important;
+}
